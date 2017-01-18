@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulkPmMrDataFile>
+	<fileHeader fileFormatVersion="V1.0.4" reportTime="2016-07-05T00:15:00.000" startTime="2016-07-05T00:00:00.000" endTime="2016-07-05T00:15:00.000" period="15"></fileHeader>
+	<eNB id="87301">
+		<measurement mrName="MR.RSRP">
+			<smr>MR.RSRP.00 MR.RSRP.01 MR.RSRP.02 MR.RSRP.03 MR.RSRP.04 MR.RSRP.05 MR.RSRP.06 MR.RSRP.07 MR.RSRP.08 MR.RSRP.09 MR.RSRP.10 MR.RSRP.11 MR.RSRP.12 MR.RSRP.13 MR.RSRP.14 MR.RSRP.15 MR.RSRP.16 MR.RSRP.17 MR.RSRP.18 MR.RSRP.19 MR.RSRP.20 MR.RSRP.21 MR.RSRP.22 MR.RSRP.23 MR.RSRP.24 MR.RSRP.25 MR.RSRP.26 MR.RSRP.27 MR.RSRP.28 MR.RSRP.29 MR.RSRP.30 MR.RSRP.31 MR.RSRP.32 MR.RSRP.33 MR.RSRP.34 MR.RSRP.35 MR.RSRP.36 MR.RSRP.37 MR.RSRP.38 MR.RSRP.39 MR.RSRP.40 MR.RSRP.41 MR.RSRP.42 MR.RSRP.43 MR.RSRP.44 MR.RSRP.45 MR.RSRP.46 MR.RSRP.47 </smr>
+			<object id="22349057">
+				<v>6 105 63 116 49 69 73 63 66 86 22 11 10 12 24 21 12 16 9 2 8 12 5 1 5 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+			</object>
+			<object id="22349058">
+				<v>2 11 0 0 0 0 0 0 0 1 0 0 0 0 0 7 8 14 2 6 11 20 2 8 4 4 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+			</object>
+			<object id="22349059">
+				<v>17 142 71 72 83 151 108 98 48 25 21 20 11 7 14 22 22 20 7 4 1 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+			</object>
+		</measurement>
+		<measurement mrName="MR.RSRQ">
+			<smr>MR.RSRQ.00 MR.RSRQ.01 MR.RSRQ.02 MR.RSRQ.03 MR.RSRQ.04 MR.RSRQ.05 MR.RSRQ.06 MR.RSRQ.07 MR.RSRQ.08 MR.RSRQ.09 MR.RSRQ.10 MR.RSRQ.11 MR.RSRQ.12 MR.RSRQ.13 MR.RSRQ.14 MR.RSRQ.15 MR.RSRQ.16 MR.RSRQ.17 </smr>
+			<object id="22349057">
+				<v>0 0 0 0 0 0 5 19 39 58 133 329 186 17 11 31 36 5</v>
+			</object>
+			<object id="22349058">
+				<v>0 0 0 0 0 0 0 0 0 2 3 4 16 68 10 0 0 0</v>
+			</object>
+			<object id="22349059">
+				<v>0 0 0 0 0 0 1 2 4 11 60 189 240 342 112 5 2 0</v>
+			</object>
+		</measurement>
+		<measurement mrName="MR.Tadv">
+			<smr>MR.Tadv.00 MR.Tadv.01 MR.Tadv.02 MR.Tadv.03 MR.Tadv.04 MR.Tadv.05 MR.Tadv.06 MR.Tadv.07 MR.Tadv.08 MR.Tadv.09 MR.Tadv.10 MR.Tadv.11 MR.Tadv.12 MR.Tadv.13 MR.Tadv.14 MR.Tadv.15 MR.Tadv.16 MR.Tadv.17 MR.Tadv.18 MR.Tadv.19 MR.Tadv.20 MR.Tadv.21 MR.Tadv.22 MR.Tadv.23 MR.Tadv.24 MR.Tadv.25 MR.Tadv.26 MR.Tadv.27 MR.Tadv.28 MR.Tadv.29 MR.Tadv.30 MR.Tadv.31 MR.Tadv.32 MR.Tadv.33 MR.Tadv.34 MR.Tadv.35 MR.Tadv.36 MR.Tadv.37 MR.Tadv.38 MR.Tadv.39 MR.Tadv.40 MR.Tadv.41 MR.Tadv.42 MR.Tadv.43 MR.Tadv.44 </smr>
+			<object id="22349057">
+				<v>98 270 358 33 61 0 0 4 8 0 1 11 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+			</object>
+			<object id="22349058">
+				<v>5 7 11 10 70 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+			</object>
+			<object id="22349059">
+				<v>13 52 375 419 98 10 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+			</object>
+		</measurement>
+		
+	</eNB>
+</bulkPmMrDataFile>
