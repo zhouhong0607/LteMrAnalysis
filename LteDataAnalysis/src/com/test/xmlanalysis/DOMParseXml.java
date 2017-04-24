@@ -29,13 +29,12 @@ public class DOMParseXml
 	public static void main(String[] args)
 	{
 		LogUtil.setLevel(LogUtil.DEBUG);
-		
+		//sss
 		DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 		double[] expRsrp = new double[96];
-		String date = "TD-LTE_MRS_NSN_OMC_87301_20160705";
+//		String date = "TD-LTE_MRS_NSN_OMC_87301_20160705";
+		String date = "TD-LTE_MRS_NSN_OMC_97327_20160705";
 		for (int m = 0; m < 96; m++)
-			
-			
 		{
 			try
 			{
@@ -48,7 +47,9 @@ public class DOMParseXml
 				String hour=new DecimalFormat("00").format( (m!=0)?(m *1500 /6000%24):0);
 				
 				
-				Document document = db.parse("data/"+date+hour+min+".xml");
+//				Document document = db.parse("87301/"+date+hour+min+".xml");
+				Document document = db.parse("97327/"+date+hour+min+".xml");
+				
 //				Document document = db.parse("data/TD-LTE_MRS_NSN_OMC_87301_20160705000000.xml");// 传入文件名可以是相对路径也可以是绝对路径
 				// 获取所有measurement节点的集合
 				NodeList measureList = document.getElementsByTagName("measurement");
@@ -68,9 +69,7 @@ public class DOMParseXml
 					LogUtil.v("属性名：" + attr.getNodeName());
 					// 获取属性值
 					LogUtil.v("--属性值" + attr.getNodeValue());
-
 					measurement.setMrName(attr.getNodeValue());// 设置mrName
-
 					// 解析book节点的子节点
 					NodeList childNodes = measurementNode.getChildNodes();
 					// 遍历childNodes获取每个节点的节点名和节点值
@@ -105,7 +104,6 @@ public class DOMParseXml
 
 								measurement.getObjects().put(objectAttr.getNodeValue(),
 										vNode.getFirstChild().getNodeValue());
-							
 							}
 						}
 					}
@@ -113,13 +111,12 @@ public class DOMParseXml
 
 					meaMap.put(attr.getNodeValue(), measurement);
 				}
-				String[] rsrpString = meaMap.get("MR.RSRP").getObjects().get("22349057").split(" ");
+				String[] rsrpString = meaMap.get("MR.RSRP").getObjects().get("24915723").split(" ");
 				double[] rsrqDouble = new double[rsrpString.length];
 				for (int j = 0; j < rsrpString.length; j++)
 				{
 					rsrqDouble[j] = Double.parseDouble(rsrpString[j]);
 				}
-
 				LogUtil.d(String.valueOf(Util.calRsrpExp(rsrqDouble)));
 				expRsrp[m]=Util.calRsrpExp(rsrqDouble);
 			} catch (ParserConfigurationException e)

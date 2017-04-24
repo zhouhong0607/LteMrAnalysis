@@ -118,7 +118,7 @@ public class Util
 		wSum += value[47] * 60;
 		sum += value[47];
 		double result;
-		result = -(wSum / sum);
+		 result =(sum!=0)? -(wSum / sum):0.0;
 		return result;
 	}
 
@@ -144,7 +144,7 @@ public class Util
 		wSum += value[17] * 3;
 		sum += value[17];
 		double result;
-		result = -(wSum / sum);
+		result =(sum!=0)? -(wSum / sum):0.0;
 		return result;
 	}
 
@@ -170,7 +170,7 @@ public class Util
 		}
 
 		double result;
-		result = wSum / sum;
+		result = (sum!=0)?wSum / sum:0.0;
 		return result;
 	}
 
@@ -238,7 +238,7 @@ public class Util
 			cur += 0.1;
 		}
 		double result;
-		result = wSum / sum;
+		result = (sum!=0)?wSum / sum:0.0;
 		return result;
 	}
 
@@ -264,7 +264,7 @@ public class Util
 		wSum += value[36] * 25;
 		sum += value[36];
 		double result;
-		result = wSum / sum;
+		result = (sum!=0)?wSum / sum:0.0;
 		return result;
 	}
 }
