@@ -18,42 +18,50 @@ import org.xml.sax.SAXException;
 
 import com.test.data.Measurement;
 import com.test.util.LogUtil;
-import com.test.util.Util;
+
+import calcu.Calculator;
+import calcu.RsrpCalcutor;
+
+import com.test.util.CalUtil;
 
 /**
  * DOM方式解析xml
  */
 public class DOMParseXml
 {
-
+	public final static String   CELL="97327";  //小区
+	public final static String   DATE="20170307";//时间
+	public final static String   MRNAME="MR.RSRP";//提取的数据
+	public final static String   ID="24915723";//id号       87301:22349057,22349058,22349059
+												    // 97327:24915713,24915723
+	
 	public static void main(String[] args)
 	{
+		
 		LogUtil.setLevel(LogUtil.DEBUG);
-		//sss
+		
+		String filePath="out/";
+		String fileName=CELL+"_"+DATE+"_"+ID+".txt";
+		
 		DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-		double[] expRsrp = new double[96];
-//		String date = "TD-LTE_MRS_NSN_OMC_87301_20160705";
-		String date = "TD-LTE_MRS_NSN_OMC_97327_20160705";
+		 //	 相对路径  "87301/0205/TD-LTE_MRS_NSN_OMC_87301_20170205"; 
+		String uri = CELL+"/"+DATE+"/TD-LTE_MRS_NSN_OMC_"+CELL+"_"+DATE; 
+		//存放96个文件中所有的Measurement ， key是 第 m个 文件， value是  一个文件中所有的Measurement
+		Map<Integer, Map<String, Measurement>> allData=new HashMap<>();
+		//提取96个文件中所有数据
 		for (int m = 0; m < 96; m++)
 		{
 			try
 			{
 				Map<String, Measurement> meaMap = new HashMap<>(); // key是mrName，value是measurement
 				DocumentBuilder db = dbf.newDocumentBuilder();
-				/* 注意导入Document对象时，要导入org.w3c.dom.Document包下的 */
-				
 				
 				String min=new DecimalFormat("0000").format(m*1500%6000);
 				String hour=new DecimalFormat("00").format( (m!=0)?(m *1500 /6000%24):0);
-				
-				
-//				Document document = db.parse("87301/"+date+hour+min+".xml");
-				Document document = db.parse("97327/"+date+hour+min+".xml");
-				
-//				Document document = db.parse("data/TD-LTE_MRS_NSN_OMC_87301_20160705000000.xml");// 传入文件名可以是相对路径也可以是绝对路径
+				/* 注意导入Document对象时，要导入org.w3c.dom.Document包下的 */
+				Document document = db.parse(uri+hour+min+".xml");
 				// 获取所有measurement节点的集合
 				NodeList measureList = document.getElementsByTagName("measurement");
-
 				LogUtil.v("一共有 " + measureList.getLength() + " 个Measurement");
 				// 遍历每一个measurement节点
 				for (int i = 0; i < measureList.getLength(); i++)
@@ -111,14 +119,9 @@ public class DOMParseXml
 
 					meaMap.put(attr.getNodeValue(), measurement);
 				}
-				String[] rsrpString = meaMap.get("MR.RSRP").getObjects().get("24915723").split(" ");
-				double[] rsrqDouble = new double[rsrpString.length];
-				for (int j = 0; j < rsrpString.length; j++)
-				{
-					rsrqDouble[j] = Double.parseDouble(rsrpString[j]);
-				}
-				LogUtil.d(String.valueOf(Util.calRsrpExp(rsrqDouble)));
-				expRsrp[m]=Util.calRsrpExp(rsrqDouble);
+				//将 第m个文件 中的所有measurement添加到 allData
+				allData.put(m, meaMap);
+				
 			} catch (ParserConfigurationException e)
 			{
 				e.printStackTrace();
@@ -129,8 +132,18 @@ public class DOMParseXml
 			{
 				e.printStackTrace();
 			}
-
-		}
+			
+		}//读取完所有文件
+		
+		//计算 一天96个文件的  加权平均值
+		Calculator calculator=new Calculator(new RsrpCalcutor(), allData, ID);
+		calculator.cal();
+		System.out.println(calculator.getResultStr());
+		//写入文件中
+		calculator.writeToFile(filePath,fileName);
+		
+		
+		
 	}
 
 }
