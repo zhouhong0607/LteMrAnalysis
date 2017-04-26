@@ -87,7 +87,7 @@ public class CalUtil
 	}
 
 	/**
-	 * 计算Rsrp加权期望
+	 * 计算Rsrp加权期望     先将dbm转化成 mw  计算加权平均， 再将平均值转化成 dbm 返回
 	 * 
 	 * @param value
 	 * @return
@@ -96,32 +96,62 @@ public class CalUtil
 	{
 		double sum = 0;// 分母
 		double wSum = 0;// 分子
-		wSum += value[0] * 120.0;
+		wSum += value[0] * dbm2mw(-120.0) ;
 		sum += value[0];
-		wSum += value[1] * 117.5;
+		wSum += value[1] * dbm2mw(-117.5) ;
 		sum += value[1];
 
 		double cur = 114.5;
 		for (int i = 2; i <= 36; i++)
 		{
-			wSum += value[i] * cur;
+			wSum += value[i] * dbm2mw(-cur) ;
 			sum += value[i];
 			cur -= 1;
 		}
 		cur = 79.0;
 		for (int i = 37; i <= 46; i++)
 		{
-			wSum += value[i] * cur;
+			wSum += value[i] * dbm2mw(-cur) ;
 			sum += value[i];
 			cur -= 2;
 		}
-		wSum += value[47] * 60;
+		wSum += value[47] * dbm2mw(-60) ;
 		sum += value[47];
 		double result;
-		 result =(sum!=0)? -(wSum / sum):0.0;
-		return result;
+		 result =(sum!=0)? (wSum / sum):0.0;
+//		 LogUtil.i("result= "+result +" mw");
+		 
+		return result!=0?mw2dbm(result):0.0;
 	}
 
+	/**
+	 * dbm 转化成  mw
+	 * @param v
+	 * @return
+	 */
+	private static double dbm2mw(double v)
+	{
+		return Math.pow(10.0, v/10.0);
+	}
+	
+	/**
+	 * mw转化成dbm
+	 * @param v
+	 * @return
+	 */
+	private static double mw2dbm(double v)
+	{
+		return 10*Math.log10(v);
+	}
+	
+//	public static void main(String[] args)
+//	{
+//		double mw=dbm2mw(-60);
+//		System.out.println(mw);
+//		System.out.println(mw2dbm(mw));
+//	}
+	
+	
 	/**
 	 * 计算Rsrq加权期望
 	 * 

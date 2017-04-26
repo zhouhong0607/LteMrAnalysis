@@ -29,10 +29,10 @@ import com.test.util.CalUtil;
  */
 public class DOMParseXml
 {
-	public final static String   CELL="97327";  //小区
+	public final static String   CELL="87301";  //小区
 	public final static String   DATE="20170307";//时间
 	public final static String   MRNAME="MR.RSRP";//提取的数据
-	public final static String   ID="24915723";//id号       87301:22349057,22349058,22349059
+	public final static String   ID="22349057";//id号       87301:22349057,22349058,22349059
 												    // 97327:24915713,24915723
 	
 	public static void main(String[] args)
@@ -138,7 +138,7 @@ public class DOMParseXml
 		//计算 一天96个文件的  加权平均值
 		Calculator calculator=new Calculator(new RsrpCalcutor(), allData, ID);
 		calculator.cal();
-		System.out.println(calculator.getResultStr());
+		LogUtil.d(calculator.getResultStr());
 		//写入文件中
 		calculator.writeToFile(filePath,fileName);
 		
