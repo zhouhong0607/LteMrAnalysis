@@ -32,7 +32,7 @@ public class DOMParseXml
 	public final static String   CELL="87301";  //小区
 	public final static String   DATE="20170307";//时间
 	public final static String   MRNAME="MR.RSRP";//提取的数据
-	public final static String   ID="22349057";//id号       87301:22349057,22349058,22349059
+	public final static String   ID="22349058";//id号       87301:22349057,22349058,22349059
 												    // 97327:24915713,24915723
 	
 	public static void main(String[] args)
@@ -67,7 +67,6 @@ public class DOMParseXml
 				for (int i = 0; i < measureList.getLength(); i++)
 				{
 					Measurement measurement = new Measurement();
-
 					LogUtil.v("=================下面开始遍历第 " + (i + 1) + " 个Measurement的内容=================");
 					Node measurementNode = measureList.item(i);
 					// 获取该measurement节点的所有属性集合
