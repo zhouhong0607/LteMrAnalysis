@@ -2,7 +2,7 @@ package calcu;
 
 import java.util.Map;
 
-import com.test.data.Measurement;
+import com.test.bean.Measurement;
 import com.test.util.CalUtil;
 
 public class RsrpCalcutor implements CalExper

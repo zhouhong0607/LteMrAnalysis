@@ -1,0 +1,1875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bulkPmMrDataFile>
+	<fileHeader fileFormatVersion="V1.0.4" reportTime="2017-03-07T02:15:00.000" startTime="2017-03-07T02:00:00.000" endTime="2017-03-07T02:15:00.000" period="15" jobid="0"></fileHeader>
+	<eNB id="97327">
+		<measurement>
+			<smr>MR.LteScRSRP MR.LteScRSRQ MR.LteScTadv MR.LteSceNBRxTxTimeDiff MR.LteScPHR MR.LteScAOA MR.LteScSinrUL MR.LteScEarfcn MR.LteScPci MR.LteNcRSRP MR.LteNcRSRQ MR.LteNcEarfcn MR.LteNcPci MR.TdsPccpchRSCP MR.TdsNcellUarfcn MR.TdsCellParameterId MR.GsmNcellBcch MR.GsmNcellCarrierRSSI MR.GsmNcellNcc MR.GsmNcellBcc MR.LteScPUSCHPRBNum MR.LteScPDSCHPRBNum MR.LteScBSR MR.LteScRI1 MR.LteScRI2 MR.LteScRI4 MR.LteScRI8</smr>
+			<object id="24915713" MmeUeS1apId="269314513" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T01:59:56.898">
+				<v>51 30 0 32 49 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 21 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1335178" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T01:59:59.853">
+				<v>69 34 0 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 12 NIL 7 43 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269314513" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:02.068">
+				<v>51 32 0 31 44 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 20 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1335178" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:04.883">
+				<v>69 34 1 32 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 18 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269314513" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:07.163">
+				<v>51 32 0 31 43 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 18 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807057687" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:13.133">
+				<v>44 34 1 31 41 0 29 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 17 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268662233" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:16.433">
+				<v>33 32 2 32 29 0 35 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 17 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807036494" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T01:59:59.808">
+				<v>46 33 1 31 34 0 33 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 15 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807057687" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:18.143">
+				<v>44 33 1 31 30 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 15 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807057687" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:23.093">
+				<v>44 33 1 31 30 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 21 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268662233" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:21.578">
+				<v>33 33 1 32 21 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 13 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269314513" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:12.308">
+				<v>51 32 0 31 47 0 35 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 18 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1335178" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:09.723">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 20 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:45.833">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 17 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268691842" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:45.183">
+				<v>33 33 1 31 29 0 34 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 22 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:50.798">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 12 NIL 3 47 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:55.758">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 15 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:00.728">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 16 NIL 6 44 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:05.688">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 19 NIL 7 43 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:10.638">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 14 NIL 7 43 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268691842" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:50.343">
+				<v>32 33 1 31 20 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 16 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1405489" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:18.422">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 21 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1405489" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:23.413">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 22 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268734455" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:25.763">
+				<v>32 33 1 32 30 0 33 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 10 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:15.608">
+				<v>69 34 1 32 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 18 NIL 2 48 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807137661" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:45.293">
+				<v>45 34 1 31 41 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 17 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807137661" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:50.323">
+				<v>45 34 1 31 34 0 35 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 11 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1405489" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:28.323">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 14 NIL 3 47 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268734455" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:31.068">
+				<v>32 33 2 31 26 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 19 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1432439" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:51.143">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 22 NIL 9 41 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807152521" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:02.523">
+				<v>45 34 1 31 41 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 22 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807152521" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:07.528">
+				<v>45 34 1 31 30 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 18 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268898495" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:15.532">
+				<v>58 32 1 32 53 0 29 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 11 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1432439" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:56.178">
+				<v>69 34 1 31 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 22 NIL 7 43 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807137661" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:55.273">
+				<v>45 33 1 31 33 0 35 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 16 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268898495" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:20.658">
+				<v>58 33 1 31 39 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 16 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268898495" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:28.413">
+				<v>58 33 1 31 38 0 11 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 11 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807152521" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:12.478">
+				<v>45 34 1 31 30 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 15 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268819043" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:46.203">
+				<v>32 33 1 31 30 0 33 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 10 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:46.253">
+				<v>69 34 1 31 61 0 35 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 18 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:51.213">
+				<v>69 34 1 31 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 18 NIL 7 43 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268898495" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:30.963">
+				<v>58 33 1 31 46 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 11 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268830582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:56.753">
+				<v>33 32 1 31 30 0 34 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 22 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:56.173">
+				<v>69 33 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 24 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268935592" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:57.943">
+				<v>58 33 1 31 53 0 26 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 22 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807201993" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:59.923">
+				<v>45 34 1 31 41 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 21 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:01.133">
+				<v>69 33 1 31 55 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 21 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268830582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:01.893">
+				<v>33 33 1 31 23 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 24 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268935592" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:03.098">
+				<v>58 33 1 31 39 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 19 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807201993" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:04.913">
+				<v>45 34 1 31 28 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 23 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:06.103">
+				<v>69 34 1 31 56 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 16 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:10.963">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 18 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268947054" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:11.223">
+				<v>58 33 1 31 53 0 26 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 24 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268819043" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:51.368">
+				<v>33 33 2 32 26 0 35 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 19 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:15.853">
+				<v>69 34 1 31 56 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 23 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807218378" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:17.453">
+				<v>45 34 1 32 41 0 29 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 16 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268947054" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:16.398">
+				<v>58 33 1 31 38 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 19 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:20.813">
+				<v>69 34 1 31 56 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 10 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807218378" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:22.513">
+				<v>45 33 1 31 31 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 12 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268830582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:07.023">
+				<v>33 33 1 32 14 0 11 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 14 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807218378" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:27.393">
+				<v>45 33 1 31 31 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 13 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1516774" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:29.703">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 22 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268964814" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:31.703">
+				<v>58 32 1 31 53 0 26 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 17 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807218378" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:32.363">
+				<v>45 33 1 31 34 0 34 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 23 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807201993" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:09.863">
+				<v>45 34 1 31 29 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 13 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268935592" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:08.313">
+				<v>58 33 1 31 39 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 23 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1516774" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:34.748">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 23 NIL 3 47 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1516774" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:39.698">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 21 NIL 2 48 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807240553" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:44.332">
+				<v>45 34 1 31 41 0 31 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 17 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1516774" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:44.618">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 13 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268947054" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:24.073">
+				<v>58 32 1 32 38 0 11 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 12 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:25.783">
+				<v>69 34 1 32 56 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 10 NIL 2 48 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269525758" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:46.498">
+				<v>51 32 1 31 49 0 34 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 23 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807218378" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:37.313">
+				<v>45 33 1 31 35 0 35 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 19 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268964814" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:36.888">
+				<v>58 33 1 31 42 0 35 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 23 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807253834" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:59.693">
+				<v>45 34 1 31 41 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 15 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807253834" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:04.698">
+				<v>45 34 1 31 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 22 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1516774" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:49.508">
+				<v>69 34 1 31 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 15 NIL 3 47 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807240553" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:49.573">
+				<v>45 34 1 31 33 0 35 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 18 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:07.628">
+				<v>47 32 0 31 47 0 35 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 17 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:12.988">
+				<v>52 32 1 31 46 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 10 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269525758" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:51.793">
+				<v>51 32 1 31 47 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 14 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:17.948">
+				<v>49 33 1 32 43 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 12 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807270714" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:19.143">
+				<v>45 34 1 31 41 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 21 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:23.078">
+				<v>49 32 1 31 42 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 19 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807270714" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:24.223">
+				<v>45 33 1 31 31 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 11 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807253834" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:09.658">
+				<v>45 34 1 32 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 11 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1565594" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:27.143">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 14 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:28.318">
+				<v>52 32 1 31 44 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 23 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1565594" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:32.192">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 16 NIL 6 44 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807281239" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:31.692">
+				<v>45 34 1 31 41 0 29 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 17 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:33.318">
+				<v>52 32 1 31 44 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 15 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269569804" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:35.568">
+				<v>49 32 1 31 46 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 15 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807281239" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:36.698">
+				<v>45 34 1 31 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 23 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:38.518">
+				<v>51 31 1 31 44 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 19 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269569804" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:40.848">
+				<v>46 28 1 31 43 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 10 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:43.678">
+				<v>51 32 1 31 43 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 20 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1581868" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:45.843">
+				<v>69 34 0 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 12 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269569804" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:45.933">
+				<v>46 28 1 31 38 0 11 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 11 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807270714" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:29.183">
+				<v>45 33 1 32 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 17 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268943628" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:46.513">
+				<v>33 32 1 31 29 0 33 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 11 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:48.678">
+				<v>48 32 1 31 41 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 21 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1581868" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:50.923">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 24 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807296613" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:49.913">
+				<v>45 34 1 31 41 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 11 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807296613" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:54.958">
+				<v>45 33 1 31 31 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 16 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:53.798">
+				<v>53 32 1 31 43 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 20 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807281239" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:41.668">
+				<v>45 34 1 32 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 20 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1565594" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:37.153">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 11 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:59.028">
+				<v>53 32 1 31 43 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 12 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807307777" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:02.413">
+				<v>45 34 1 31 41 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 19 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269569804" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:51.088">
+				<v>46 28 1 32 43 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 14 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1581868" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:55.893">
+				<v>69 34 1 32 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 10 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268943628" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:51.663">
+				<v>32 33 1 32 25 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 19 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268973456" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:15.253">
+				<v>33 32 1 31 28 0 34 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 16 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805312865" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:19.433">
+				<v>45 34 1 31 41 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 15 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805312865" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:24.413">
+				<v>45 34 1 32 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 22 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807296613" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:59.838">
+				<v>45 33 1 32 31 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 24 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807307777" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:07.523">
+				<v>45 33 1 31 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 10 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:04.028">
+				<v>52 32 1 31 43 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 20 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268973456" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:20.398">
+				<v>33 33 2 32 22 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 20 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805312865" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:29.373">
+				<v>45 34 1 31 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 15 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417224715" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:01.073">
+				<v>57 31 0 31 51 0 30 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 16 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1650469" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:05.843">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 23 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417224715" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:06.048">
+				<v>57 33 1 31 42 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 16 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1650469" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:10.933">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 19 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417224715" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:11.018">
+				<v>57 34 1 32 42 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 10 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1650469" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:15.903">
+				<v>69 34 1 31 55 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 12 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1679111" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:40.493">
+				<v>69 34 1 32 61 0 35 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 16 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269062732" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:43.713">
+				<v>32 32 0 32 28 0 34 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 14 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1679111" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:45.508">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 14 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1679111" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:50.458">
+				<v>69 34 1 31 56 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 13 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805400729" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:02.522">
+				<v>45 34 1 31 41 0 29 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 14 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1700689" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:06.103">
+				<v>69 34 0 31 61 0 35 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 20 NIL 7 43 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417279927" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:07.173">
+				<v>57 31 0 31 51 0 32 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 18 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805400729" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:07.533">
+				<v>45 33 1 31 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 19 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269062732" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:48.848">
+				<v>33 33 2 31 24 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 23 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1700689" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:11.033">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 16 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417279927" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:12.228">
+				<v>57 34 0 32 42 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 13 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269096667" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:16.273">
+				<v>35 33 1 31 31 0 33 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 12 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417279927" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:17.188">
+				<v>57 34 1 31 43 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 22 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1679111" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:55.393">
+				<v>69 34 1 31 53 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 12 NIL 7 43 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269108279" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:27.013">
+				<v>35 32 2 31 30 0 34 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 13 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1719708" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:28.203">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 24 NIL 3 47 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805400729" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:12.463">
+				<v>45 33 1 31 31 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 14 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1719708" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:33.353">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 19 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1719708" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:38.443">
+				<v>69 34 1 31 53 0 11 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 11 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1700689" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:15.993">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 12 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417279927" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:22.158">
+				<v>57 34 1 31 43 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 14 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269096667" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:21.418">
+				<v>35 33 2 31 22 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 12 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269179607" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:41.378">
+				<v>58 33 1 31 53 0 26 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 24 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1719708" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:43.523">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 22 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269179607" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:46.558">
+				<v>58 33 1 31 37 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 12 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269108279" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:32.183">
+				<v>35 33 1 31 23 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 11 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805449822" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:59.923">
+				<v>45 34 1 31 41 0 29 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 10 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805449822" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:04.923">
+				<v>45 33 1 32 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 14 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1719708" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:48.703">
+				<v>69 34 1 31 53 0 11 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 20 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1752051" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:06.173">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 17 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1752051" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:11.198">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 14 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269208694" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:15.453">
+				<v>58 32 0 32 53 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 24 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269179607" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:51.763">
+				<v>58 33 1 31 36 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 12 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269769878" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:17.008">
+				<v>47 31 1 32 45 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 16 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805449822" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:09.873">
+				<v>45 33 1 31 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 12 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:30.023">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 13 NIL 9 41 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:35.058">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 17 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1752051" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:16.168">
+				<v>69 34 1 31 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 23 NIL 7 43 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269208694" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:20.648">
+				<v>58 33 0 31 39 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 19 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:40.018">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 15 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:44.978">
+				<v>69 34 1 31 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 15 NIL 9 41 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269769878" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:22.173">
+				<v>47 32 1 31 40 0 34 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 22 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:49.903">
+				<v>69 34 1 32 53 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 21 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:51.008">
+				<v>48 31 1 31 44 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 11 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:54.888">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 21 NIL 7 43 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:56.188">
+				<v>47 28 1 31 39 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 10 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:01.273">
+				<v>47 29 1 31 35 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 22 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1798845" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:02.113">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 10 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805506582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:06.763">
+				<v>45 34 1 31 41 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 13 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:06.418">
+				<v>47 31 1 31 39 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 21 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1798845" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:07.063">
+				<v>69 34 1 32 57 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 21 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:11.548">
+				<v>47 28 1 31 39 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 21 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805506582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:11.808">
+				<v>45 34 1 31 30 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 12 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805506582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:16.698">
+				<v>45 34 1 32 30 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 10 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:16.658">
+				<v>47 28 1 31 37 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 18 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:59.848">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 13 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269224200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:19.903">
+				<v>40 33 1 32 38 0 30 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 23 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269224200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:25.078">
+				<v>40 33 1 31 32 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 13 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269832048" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:26.928">
+				<v>47 30 0 31 44 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 13 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1798845" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:12.023">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 20 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269224200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:30.163">
+				<v>40 33 1 31 25 0 11 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 11 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1825535" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:34.143">
+				<v>69 33 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 21 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805530826" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:35.053">
+				<v>45 34 1 31 41 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 15 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:21.788">
+				<v>47 28 1 32 37 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 18 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805506582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:21.623">
+				<v>45 33 1 31 27 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 12 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269220760" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:16.593">
+				<v>35 32 1 31 31 0 32 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 23 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1825535" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:39.128">
+				<v>69 34 1 31 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 22 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805530826" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:40.138">
+				<v>45 33 1 31 33 0 35 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 16 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269846281" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:42.768">
+				<v>47 32 0 31 44 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 14 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805543183" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:49.932">
+				<v>45 34 1 31 41 0 29 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 17 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269224200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:35.308">
+				<v>40 33 1 31 32 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 21 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269832048" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:32.203">
+				<v>47 32 1 32 40 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 11 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805543183" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:55.033">
+				<v>45 34 1 31 30 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 21 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1825535" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:44.038">
+				<v>69 34 1 31 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 24 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805530826" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:45.108">
+				<v>45 33 1 31 33 0 35 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 16 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1853240" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:06.193">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 10 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1853240" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:11.258">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 14 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269846281" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:48.053">
+				<v>47 32 1 31 41 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 19 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805563205" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:13.453">
+				<v>45 34 1 31 41 0 29 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 23 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805563205" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:18.548">
+				<v>45 33 1 31 31 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 17 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269881622" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:23.398">
+				<v>47 32 0 32 44 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 16 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805543183" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:59.993">
+				<v>45 34 1 31 31 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 18 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1853240" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:16.218">
+				<v>69 34 1 31 57 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 17 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805563205" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:23.518">
+				<v>45 33 1 31 31 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 21 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1886730" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:46.253">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 13 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1886730" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:51.348">
+				<v>69 34 1 32 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 15 NIL 3 47 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269881622" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:28.623">
+				<v>47 27 1 32 40 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 23 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1896675" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:57.823">
+				<v>69 34 1 32 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 21 NIL 3 47 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1896675" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:02.743">
+				<v>69 34 1 31 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 15 NIL 6 44 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1896675" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:07.663">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 14 NIL 7 43 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1886730" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:56.268">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 11 NIL 6 44 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269355122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:27.157">
+				<v>40 33 1 31 39 0 35 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 17 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1896675" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:12.593">
+				<v>69 34 1 31 53 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 19 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269355122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:32.308">
+				<v>40 33 1 31 29 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 17 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1946647" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:58.223">
+				<v>69 34 1 32 61 0 35 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 14 NIL 9 41 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805654082" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:02.523">
+				<v>45 34 1 31 43 0 33 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 22 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1946647" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:03.283">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 17 NIL 9 41 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269397281" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:07.012">
+				<v>41 33 1 31 39 0 29 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 24 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805654082" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:07.603">
+				<v>45 33 1 31 34 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 15 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1946647" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:08.233">
+				<v>69 34 1 32 57 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 15 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1946647" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:13.193">
+				<v>69 34 1 31 56 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 11 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269419288" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:21.183">
+				<v>58 32 1 31 53 0 29 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 17 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269419288" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:26.368">
+				<v>58 32 1 31 34 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 18 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805677031" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:29.943">
+				<v>45 34 1 32 43 0 31 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 10 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805677031" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:34.963">
+				<v>45 34 1 31 33 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 24 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1946647" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:18.153">
+				<v>69 34 1 31 56 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 18 NIL 3 47 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805654082" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:12.553">
+				<v>45 33 1 32 35 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 23 NIL 26 24 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269397281" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:12.158">
+				<v>40 33 1 31 31 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 13 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1986701" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:45.873">
+				<v>69 34 1 32 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 16 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1986701" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:50.893">
+				<v>69 34 1 31 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 14 NIL 2 48 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269419288" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:34.043">
+				<v>58 33 1 31 34 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 12 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805677031" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:39.933">
+				<v>45 34 1 31 33 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 18 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1998582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:00.223">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 16 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1998582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:05.208">
+				<v>69 34 1 31 59 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 10 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269465475" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:15.443">
+				<v>58 32 0 31 53 0 29 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 22 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1986701" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:55.843">
+				<v>69 34 1 31 60 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 18 NIL 3 47 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269465475" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:20.618">
+				<v>58 33 1 31 36 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 17 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="6038" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:21.133">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 11 NIL 4 46 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="6038" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:26.183">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 14 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1998582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:10.178">
+				<v>69 34 1 31 60 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 15 NIL 6 44 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269481328" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:27.488">
+				<v>41 33 1 31 40 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 21 NIL 25 25 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270048060" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:28.048">
+				<v>48 29 0 32 49 0 35 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 23 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270048060" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:33.233">
+				<v>47 32 1 31 44 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 15 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269484704" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:38.448">
+				<v>58 32 0 32 53 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 24 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270048060" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:38.353">
+				<v>51 31 1 31 43 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 15 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="21814" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:40.343">
+				<v>69 34 0 31 61 0 35 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 15 NIL 8 42 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="21814" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:45.388">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 23 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269484704" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:43.613">
+				<v>58 33 0 31 39 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 21 NIL 21 29 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270048060" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:43.473">
+				<v>51 32 1 31 42 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 20 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269465475" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:25.768">
+				<v>58 33 1 31 38 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 18 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="6038" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:31.133">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 16 NIL 5 45 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269481328" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:32.628">
+				<v>41 33 1 31 31 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 18 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="43560" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:06.303">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 24 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269521176" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:07.033">
+				<v>41 33 1 32 39 0 33 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 18 NIL 20 30 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805757498" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:07.202">
+				<v>45 34 1 31 43 0 31 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 20 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="43560" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:11.403">
+				<v>69 34 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 23 NIL 3 47 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269484704" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:51.303">
+				<v>58 33 0 31 39 0 11 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 13 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="21814" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:50.358">
+				<v>69 34 1 32 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 10 NIL 9 41 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805757498" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:12.258">
+				<v>45 34 1 31 35 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 13 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270086846" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:12.078">
+				<v>51 32 0 31 50 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 19 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805757498" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:17.218">
+				<v>45 34 1 31 32 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 21 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805757498" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:22.178">
+				<v>45 34 1 31 34 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 20 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269529689" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:32.208">
+				<v>57 32 1 31 53 0 29 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 18 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="43560" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:16.363">
+				<v>69 33 1 31 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 14 NIL 1 49 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269521176" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:12.158">
+				<v>41 33 1 31 30 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 23 NIL 28 22 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270086846" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:17.242">
+				<v>51 30 0 32 46 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 10 NIL 23 27 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269529689" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:37.393">
+				<v>58 33 1 32 38 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 8 16 NIL 29 21 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805757498" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:27.148">
+				<v>45 34 1 31 34 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 24 NIL 27 23 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270116521" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:46.128">
+				<v>51 30 1 31 50 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 17 NIL 24 26 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="76855" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:46.893">
+				<v>69 34 1 31 61 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 5 14 NIL 7 43 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805792200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:49.963">
+				<v>45 34 1 32 43 0 30 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 9 10 NIL 22 28 0 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="76855" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:51.863">
+				<v>69 34 1 32 58 0 36 38950 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 6 24 NIL 6 44 0 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805792200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:54.998">
+				<v>45 34 1 31 34 0 36 39148 439 NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL 7 10 NIL 22 28 0 0 </v>
+			</object>
+		</measurement>
+		<measurement>
+			<smr>MR.LteScPlrULQci1 MR.LteScPlrULQci2 MR.LteScPlrULQci3 MR.LteScPlrULQci4 MR.LteScPlrULQci5 MR.LteScPlrULQci6 MR.LteScPlrULQci7 MR.LteScPlrULQci8 MR.LteScPlrULQci9 MR.LteScPlrDLQci1 MR.LteScPlrDLQci2 MR.LteScPlrDLQci3 MR.LteScPlrDLQci4 MR.LteScPlrDLQci5 MR.LteScPlrDLQci6 MR.LteScPlrDLQci7 MR.LteScPlrDLQci8 MR.LteScPlrDLQci9</smr>
+			<object id="24915713" MmeUeS1apId="269314513" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T01:59:56.898">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1335178" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T01:59:59.853">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269314513" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:02.068">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1335178" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:04.883">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269314513" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:07.163">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807057687" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:13.133">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268662233" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:16.433">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807036494" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T01:59:59.808">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807057687" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:18.143">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807057687" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:23.093">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268662233" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:21.578">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269314513" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:12.308">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1335178" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:09.723">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:45.833">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268691842" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:45.183">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:50.798">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:55.758">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:00.728">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:05.688">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:10.638">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268691842" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:00:50.343">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1405489" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:18.422">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1405489" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:23.413">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268734455" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:25.763">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1377256" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:15.608">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807137661" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:45.293">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807137661" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:50.323">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1405489" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:28.323">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268734455" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:31.068">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1432439" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:51.143">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807152521" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:02.523">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807152521" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:07.528">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268898495" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:15.532">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1432439" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:56.178">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807137661" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:01:55.273">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268898495" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:20.658">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268898495" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:28.413">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807152521" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:12.478">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268819043" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:46.203">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:46.253">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:51.213">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268898495" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:30.963">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268830582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:56.753">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:56.173">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268935592" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:57.943">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807201993" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:59.923">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:01.133">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268830582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:01.893">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268935592" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:03.098">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807201993" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:04.913">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:06.103">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:10.963">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268947054" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:11.223">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268819043" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:02:51.368">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:15.853">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807218378" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:17.453">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268947054" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:16.398">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:20.813">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807218378" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:22.513">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268830582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:07.023">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807218378" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:27.393">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1516774" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:29.703">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268964814" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:31.703">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807218378" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:32.363">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807201993" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:09.863">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268935592" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:08.313">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1516774" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:34.748">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1516774" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:39.698">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807240553" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:44.332">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1516774" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:44.618">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268947054" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:24.073">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1479269" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:25.783">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269525758" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:46.498">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807218378" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:37.313">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268964814" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:36.888">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807253834" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:59.693">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807253834" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:04.698">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1516774" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:49.508">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807240553" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:49.573">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:07.628">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:12.988">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269525758" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:03:51.793">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:17.948">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807270714" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:19.143">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:23.078">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807270714" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:24.223">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807253834" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:09.658">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1565594" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:27.143">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:28.318">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1565594" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:32.192">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807281239" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:31.692">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:33.318">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269569804" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:35.568">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807281239" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:36.698">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:38.518">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269569804" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:40.848">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:43.678">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1581868" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:45.843">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269569804" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:45.933">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807270714" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:29.183">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268943628" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:46.513">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:48.678">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1581868" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:50.923">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807296613" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:49.913">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807296613" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:54.958">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:53.798">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807281239" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:41.668">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1565594" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:37.153">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:59.028">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807307777" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:02.413">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269569804" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:51.088">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1581868" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:55.893">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268943628" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:51.663">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268973456" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:15.253">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805312865" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:19.433">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805312865" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:24.413">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807296613" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:04:59.838">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="807307777" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:07.523">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2148445367" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:04.028">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="268973456" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:20.398">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805312865" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:05:29.373">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417224715" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:01.073">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1650469" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:05.843">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417224715" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:06.048">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1650469" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:10.933">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417224715" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:11.018">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1650469" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:15.903">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1679111" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:40.493">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269062732" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:43.713">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1679111" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:45.508">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1679111" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:50.458">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805400729" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:02.522">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1700689" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:06.103">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417279927" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:07.173">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805400729" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:07.533">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269062732" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:48.848">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1700689" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:11.033">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417279927" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:12.228">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269096667" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:16.273">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417279927" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:17.188">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1679111" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:06:55.393">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269108279" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:27.013">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1719708" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:28.203">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805400729" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:12.463">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1719708" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:33.353">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1719708" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:38.443">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1700689" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:15.993">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="2417279927" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:22.158">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269096667" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:21.418">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269179607" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:41.378">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1719708" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:43.523">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269179607" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:46.558">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269108279" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:32.183">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805449822" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:59.923">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805449822" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:04.923">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1719708" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:48.703">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1752051" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:06.173">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1752051" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:11.198">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269208694" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:15.453">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269179607" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:07:51.763">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269769878" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:17.008">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805449822" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:09.873">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:30.023">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:35.058">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1752051" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:16.168">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269208694" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:20.648">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:40.018">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:44.978">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269769878" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:22.173">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:49.903">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:51.008">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:54.888">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:56.188">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:01.273">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1798845" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:02.113">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805506582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:06.763">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:06.418">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1798845" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:07.063">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:11.548">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805506582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:11.808">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805506582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:16.698">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:16.658">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1772122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:08:59.848">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269224200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:19.903">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269224200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:25.078">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269832048" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:26.928">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1798845" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:12.023">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269224200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:30.163">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1825535" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:34.143">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805530826" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:35.053">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269799956" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:21.788">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805506582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:21.623">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269220760" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:16.593">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1825535" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:39.128">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805530826" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:40.138">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269846281" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:42.768">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805543183" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:49.932">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269224200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:35.308">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269832048" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:32.203">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805543183" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:55.033">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1825535" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:44.038">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805530826" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:45.108">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1853240" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:06.193">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1853240" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:11.258">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269846281" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:48.053">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805563205" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:13.453">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805563205" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:18.548">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269881622" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:23.398">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805543183" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:09:59.993">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1853240" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:16.218">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805563205" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:23.518">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1886730" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:46.253">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1886730" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:51.348">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269881622" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:28.623">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1896675" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:57.823">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1896675" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:02.743">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1896675" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:07.663">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1886730" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:10:56.268">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269355122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:27.157">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1896675" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:12.593">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269355122" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:32.308">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1946647" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:11:58.223">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805654082" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:02.523">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1946647" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:03.283">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269397281" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:07.012">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805654082" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:07.603">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1946647" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:08.233">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1946647" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:13.193">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269419288" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:21.183">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269419288" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:26.368">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805677031" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:29.943">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805677031" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:34.963">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1946647" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:18.153">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805654082" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:12.553">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269397281" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:12.158">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1986701" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:45.873">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1986701" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:50.893">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269419288" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:34.043">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805677031" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:39.933">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1998582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:00.223">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1998582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:05.208">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269465475" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:15.443">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1986701" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:12:55.843">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269465475" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:20.618">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="6038" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:21.133">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="6038" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:26.183">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="1998582" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:10.178">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269481328" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:27.488">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270048060" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:28.048">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270048060" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:33.233">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269484704" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:38.448">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270048060" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:38.353">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="21814" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:40.343">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="21814" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:45.388">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269484704" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:43.613">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270048060" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:43.473">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269465475" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:25.768">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="6038" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:31.133">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269481328" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:32.628">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="43560" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:06.303">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269521176" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:07.033">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805757498" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:07.202">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="43560" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:11.403">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269484704" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:51.303">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="21814" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:13:50.358">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805757498" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:12.258">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270086846" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:12.078">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805757498" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:17.218">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805757498" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:22.178">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269529689" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:32.208">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="43560" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:16.363">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="269521176" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:12.158">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270086846" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:17.242">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="269529689" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:37.393">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805757498" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:27.148">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="270116521" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:46.128">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="76855" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:46.893">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805792200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:49.963">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915713" MmeUeS1apId="76855" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:51.863">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+			<object id="24915723" MmeUeS1apId="805792200" MmeGroupId="258" MmeCode="126" TimeStamp="2017-03-07T02:14:54.998">
+				<v>NIL NIL NIL NIL NIL NIL NIL NIL 0 NIL NIL NIL NIL NIL NIL NIL NIL 0 </v>
+			</object>
+		</measurement>
+		<measurement>
+			<smr>MR.LteScRIP </smr>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:00:35.370" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>109</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:00:35.370" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:00:35.369" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:00:35.369" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:01:35.370" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:01:35.370" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:01:35.370" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:01:35.370" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:02:35.371" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:02:35.371" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:02:35.371" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:02:35.371" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:03:35.372" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>109</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:03:35.372" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:03:35.371" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:03:35.371" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:04:35.372" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:04:35.372" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:04:35.373" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:04:35.373" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:05:35.373" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:05:35.373" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:05:35.373" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:05:35.373" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:06:35.374" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:06:35.374" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:06:35.373" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:06:35.373" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:07:35.375" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:07:35.375" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:07:35.374" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:07:35.374" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:08:35.375" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>109</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:08:35.375" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>109</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:08:35.375" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:08:35.375" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:09:35.376" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:09:35.376" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>109</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:09:35.376" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:09:35.376" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:10:35.377" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:10:35.377" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>109</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:10:35.376" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:10:35.376" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:11:35.377" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:11:35.377" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:11:35.377" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:11:35.377" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:12:35.378" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:12:35.378" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>109</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:12:35.378" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:12:35.378" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:13:35.379" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>109</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:13:35.379" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>109</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:13:35.378" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:13:35.378" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>104</v>
+			</object>
+			<object id="24915723:39148:2" TimeStamp="2017-03-07T02:14:35.379" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>109</v>
+			</object>
+			<object id="24915723:39148:7" TimeStamp="2017-03-07T02:14:35.379" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>108</v>
+			</object>
+			<object id="24915713:38950:2" TimeStamp="2017-03-07T02:14:35.379" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+			<object id="24915713:38950:7" TimeStamp="2017-03-07T02:14:35.379" MmeCode="NIL" MmeGroupId="NIL" MmeUeS1apId="NIL">
+				<v>103</v>
+			</object>
+		</measurement>
+	</eNB>
+</bulkPmMrDataFile>

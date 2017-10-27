@@ -2,7 +2,7 @@ package calcu;
 
 import java.util.Map;
 
-import com.test.data.Measurement;
+import com.test.bean.Measurement;
 
 /**
  * 计算平均值的接口     实现有RsrpCalcutor  ，RsrqCalcutor 等

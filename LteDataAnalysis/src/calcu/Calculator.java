@@ -9,7 +9,7 @@ import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.util.Map;
 
-import com.test.data.Measurement;
+import com.test.bean.Measurement;
 import com.test.util.LogUtil;
 
 public class Calculator
